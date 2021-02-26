@@ -4,9 +4,9 @@ public class Main {
 
     public static void main(String[] args) {
 	Animal dog = new Animal();
-	dog.species = "dog";
-	dog.name = "Denali";
-	dog.weight = 40.0;
+	dog.species = "cat";
+	dog.name = "Ananas";
+	dog.weight = 5.0;
 	dog.feed();
 
 	Phone iPhone = new Phone();
